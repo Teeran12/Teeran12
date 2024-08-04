@@ -6,9 +6,9 @@
 
 - <b>Mobile Application (THE BASKET: RETAIL MANAGEMENT SYSTEM &
 POS CHECKOUT APPLICATION)</b>
-  - [Code & Background of this Mobile application](https://github.com/Teeran12/The-Basket-Project)<b><i>(Android Studio)</b></i>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Code & Background of this Mobile application](https://github.com/Teeran12/The-Basket-Project)<b><i>(Android Studio, Firebase)</b></i>
+- <b>Birthday Invitation App (Android Studio, Firebase)</b>
+  - [Code & Background of this application](https://github.com/Teeran12/The-Birthday-Invitation-App) <b><i>(Android Studio, Firebase)</b></i>
 
 
 
