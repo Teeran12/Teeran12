@@ -11,7 +11,8 @@ POS CHECKOUT APPLICATION)</b>
   - [Code & Background of this application](https://github.com/Teeran12/The-Birthday-Invitation-App) <b><i>(Android Studio, Firebase)</b></i>
 - <b>MOD: Mind Over Distraction Game (Gdevelop 5)</b>
   - [Game Package & Background of this game](https://github.com/Teeran12/MOD-Mind-Over-Distraction-Game) <b><i>(Gdevelop)</b></i>  
-
+- <b>FloraAR app: Augmented Reality mobile application (Unity)</b>
+  - [App Package & Background of this application](https://github.com/Teeran12/The-AR-Mobile-App) <b><i>(Unity)</b></i>  
 
 
 <h2> 🤳 Connect with me:</h2>
