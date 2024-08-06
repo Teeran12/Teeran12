@@ -13,7 +13,8 @@ POS CHECKOUT APPLICATION)</b>
   - [Game Package & Background of this game](https://github.com/Teeran12/MOD-Mind-Over-Distraction-Game) <b><i>(Gdevelop)</b></i>  
 - <b>FloraAR app: Augmented Reality mobile application (Unity)</b>
   - [App Package & Background of this application](https://github.com/Teeran12/The-AR-Mobile-App) <b><i>(Unity)</b></i>  
-
+- <b>Forest Runner Game (Unity)</b>
+  - [Unity Package & Background of this game](https://github.com/Teeran12/Forest-Runner-Game) <b><i>(Unity, Visual Studio)</b></i>  
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -22,7 +23,7 @@ POS CHECKOUT APPLICATION)</b>
 
 
 [instagram]: https://www.instagram.com/_kuhneateran7_/
-[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/kuhneateran-sukumaran-teeran/
+[linkedin]: https://www.linkedin.com/in/kuhneateran-sukumaran-teeran/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
