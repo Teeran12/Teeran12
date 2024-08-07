@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kuhneateran Sukumaran aka Teeran! <br/><a href="https://github.com/Teeran12">Programmer</a>, <a href="https://www.linkedin.com/in/kuhneateran-sukumaran-teeran/">Computer Science Graduate, Mobile Application Developer </a></h1>
+<h1>Hi, I'm Kuhneateran Sukumaran aka Teeran! <br/><a href="https://github.com/Teeran12">Programmer</a>, <a href="https://www.linkedin.com/in/kuhneateran-sukumaran-teeran/">Computer Science Graduate, Mobile Application Developer, Game Developer, Web Developer </a></h1>
 
 <p>As a recent graduate in Computer Science, specializing in Graphics and Multimedia Technology, I'm driven by a passion for technology and a strong academic foundation. I'm eager to start my career in any field related to computer science, such as web development, game design, programming, and software engineering. I aim to leverage my skills to contribute to innovative solutions. I'm seeking an entry-level position where I can collaborate with talented teams, apply my problem-solving abilities, and embark on a journey of continuous learning and growth.</p>
 
